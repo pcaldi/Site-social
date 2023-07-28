@@ -20,6 +20,7 @@ section#mobile {
   width: 311px;
   background-image: url("../assets/frame-iphone.png");
 
+  margin: 30px;
   /* Centraliza a imagem */
   position: absolute;
   top: 50%;

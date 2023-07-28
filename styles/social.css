@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
+
+img {
+  width: 100vw;
+}
+a {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  padding: 10px;
+  background-color: darkorchid;
+  color: white;
+  font-weight: 700;
+}
+a:hover {
+  background-color: rgb(162, 84, 201);
+}
